@@ -34,5 +34,10 @@ public class Work1 {
 	}
 	//xpath-->a[@class='js-spp-link product-brief__extras-link']
 	//span[.='SHOP']
+	
+	
+	public void teeku() {
+	system .("meghana")
+	}
 
 }
