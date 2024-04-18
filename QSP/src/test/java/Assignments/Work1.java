@@ -38,7 +38,7 @@ public class Work1 {
 	
 	public void teeku() {
 	System.out.println("Megha Good Evening");
-	
+	System.out.println("good evening madhu");
 	
 	
 	}
