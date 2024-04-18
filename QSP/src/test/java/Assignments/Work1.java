@@ -37,7 +37,10 @@ public class Work1 {
 	
 	
 	public void teeku() {
-	system .("meghana")
+	System.out.println("Megha Good Evening");
+	
+	
+	
 	}
 //changes approved
 }
